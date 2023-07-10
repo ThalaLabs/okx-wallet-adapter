@@ -1,7 +1,7 @@
 {
   "name": "okx-wallet-adapter",
-  "version": "0.1.0",
-  "description": "Aptos adapter for OKX wallet",
+  "version": "1.0.0",
+  "description": "Adapter for OKX wallet on Aptos",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ThalaLabs/okx-wallet-adapter"

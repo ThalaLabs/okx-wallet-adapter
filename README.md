@@ -1,0 +1,1 @@
+Adapter for OKX wallet on Aptos
