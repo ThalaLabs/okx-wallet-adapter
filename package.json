@@ -1,6 +1,6 @@
 {
   "name": "@thalalabs/okx-wallet-adapter",
-  "version": "1.0.1",
+  "version": "2.0.1",
   "description": "Adapter for OKX wallet on Aptos",
   "repository": {
     "type": "git",
@@ -20,8 +20,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "@aptos-labs/wallet-adapter-core": "^0.1.7",
-    "aptos": "1.7.2"
+    "@aptos-labs/wallet-adapter-core": "2.1.0",
+    "aptos": "^1.4.0"
   },
   "devDependencies": {
     "@types/jest": "^29.2.3",
